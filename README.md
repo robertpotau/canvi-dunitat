@@ -1,4 +1,4 @@
-# MesuraHerois
+# Canvi d'Unitat
 
 Joc en català per practicar les **unitats de mesura i els seus canvis** (1r d'ESO): longitud (m), massa (kg), capacitat (L), superfície (m²) i volum (m³).
 
